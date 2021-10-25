@@ -6,7 +6,7 @@ body {
 }
 
 #title {
-    font-size: 6rem;
+    font-size: 7rem;
     text-transform: uppercase;
     text-align: center;
     text-shadow: 0.2rem 0.2rem 0.5rem #5c575c;
@@ -25,14 +25,14 @@ body {
 }
 
 .btn {
-    width: 40%;
-    float: left;
+    width: 80%;
+    float: center;
     height: 3rem;
     margin: 5%;
     padding: 2%;
     font-size: 1.5rem;
     font-family: 'Fjalla One', sans-serif;
-    border-radius: 1rem;
+    border-radius: 2rem;
     box-shadow: 0.3rem 0.3rem 0.5rem #5c575c;
 }
 
