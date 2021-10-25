@@ -5,7 +5,7 @@ var countUp = function () {
   seconds.textContent = parseFloat(seconds.textContent) + 1;
 };
 var startCounting = function () {
-  counting = window.setInterval(countUp, 1000);
+  counting = window.setInterval(countUp, 5000);
 };
 startBtn.addEventListener("click", startCounting);
 var stopCounting = function () {
