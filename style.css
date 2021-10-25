@@ -1,12 +1,12 @@
 
 body {
-    font-size: 10px;
+    font-size: 15px;
     font-family: 'Fjalla One', sans-serif;
     background-color: cadetblue;
 }
 
 #title {
-    font-size: 7rem;
+    font-size: 8rem;
     text-transform: uppercase;
     text-align: center;
     text-shadow: 0.2rem 0.2rem 0.5rem #5c575c;
@@ -27,12 +27,12 @@ body {
 .btn {
     width: 80%;
     float: center;
-    height: 3rem;
-    margin: 5%;
-    padding: 2%;
-    font-size: 1.5rem;
+    height: 4rem;
+    margin: 6%;
+    padding: 3%;
+    font-size: 1.7rem;
     font-family: 'Fjalla One', sans-serif;
-    border-radius: 2rem;
+    border-radius: 3rem;
     box-shadow: 0.3rem 0.3rem 0.5rem #5c575c;
 }
 
